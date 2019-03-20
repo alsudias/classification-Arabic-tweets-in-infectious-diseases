@@ -1,6 +1,8 @@
 # classification-tweets
 Collecting tweets is done by the code of Motaz Saad(https://github.com/layanilamani/motazsaad-comparable-text-miner)
 
+Appling Machine learning algorithms is studied from ali7amdi(https://github.com/ali7amdi/Python-for-Data-Science-Course)
+
 The key words list is avalibale on seperate file.
 
 Data set include tweets_id with two coders label is in Tweets_ID_with_Labels.csv
